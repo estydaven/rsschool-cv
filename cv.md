@@ -2,24 +2,24 @@
 
 ### **My contacts**
 
-VK: [https://vk.com/id13401205](https://vk.com/id13401205)
-Email: [esetnod1111@gmail.com](esetnod1111@gmail.com)
-Telegram: [estydaven](https://t.me/estydaven)
-Hrodna, Belarus
+* VK: [https://vk.com/id13401205](https://vk.com/id13401205)
+* Email: [esetnod1111@gmail.com](esetnod1111@gmail.com)
+* Telegram: [estydaven](https://t.me/estydaven)
+* Hrodna, Belarus
 
 ### **About me**
 
-Hi! I'm a junior frontend developer. I want to upgrade my skills. Now I work at not wery big company. My job responsibilites include ordinary and not the most interesting task. But in a future i'd like to work in strong collective width the extraordinary prodjects. 
+Hi! I'm a junior frontend developer. I want to upgrade my skills. Now I work at not very big company. My job responsibilites include ordinary and not the most interesting task. But in a future i'd like to work in strong team width the extraordinary prodjects. 
 
 ## **My Skills**
 
-*HTML5
-*CSS3
-*JS basic
-*PUG
-*SCSS
-*GULP
-*GIT&Github
+* HTML5
+* CSS3
+* JS basic
+* PUG
+* SCSS
+* GULP
+* Git&Github
 
 ## **Code examples**
 
@@ -31,8 +31,8 @@ function greet(name){
 
 ## **Work Expirience**
 
-I was a freelancer from 2013 to 2017 year. At first I work a copywriter and a SMM-manager. Than I started takink work on creating landing pages. From summer 2017 
-I began to constantly cooperate with a small company selling various goods and create websites for them. In my free time, I sometimes took side projects. From April 2019 to the present, I have been working at [RocketProfit company](https://rocketprofit.com/) as a landing page creator.
+I was a freelancer from 2013 to 2017 year. At first I work a copywriter and a SMM-manager. Than I started taking work on creating landing pages. From summer 2017 
+I began to constantly cooperate with a small company selling various goods and create websites for them. In my free time, I sometimes took side projects. From April 2019 to the present, I have been working at [RocketProfit](https://rocketprofit.com/) company as a landing page creator.
 
 Some of my works:
 
@@ -51,5 +51,5 @@ Some of my works:
 
 ## **Foreign languages**
 
-*Polish(A1)
-*English(A2)
+* Polish(A1)
+* English(A2)
