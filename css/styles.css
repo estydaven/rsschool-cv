@@ -1,0 +1,77 @@
+/* CSS Reset start */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+ul{
+    list-style: none;
+}
+/* CSS Reset end */
+/* Variability Start */
+:root {
+    --main-color: #f0ae12;
+    --text-color: #363636;
+  }
+/* Variability End */
+/* Main Style Start */
+@font-face {
+    font-family: 'ralewaythin';
+    src: url('../fonts/raleway_thin-webfont.woff2') format('woff2'),
+         url('../fonts/raleway_thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+	font-display: swap;
+	unicode-range: U+0030-U+0039,U+0410-U+044F,U+0451,U+0401,U+002E,U+002C,U+003F,U+0021,U+2014,U+2012,U+2013,U+2010,U+00AB,U+00BB;
+}
+@font-face {
+    font-family: 'ralewaybold';
+    src: url('../fonts/raleway_bold-webfont.woff2') format('woff2'),
+         url('../fonts/raleway_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+	font-display: swap;
+	unicode-range: U+0030-U+0039,U+0410-U+044F,U+0451,U+0401,U+002E,U+002C,U+003F,U+0021,U+2014,U+2012,U+2013,U+2010,U+00AB,U+00BB;
+}
+@font-face {
+    font-family: 'storytella';
+    src: url('../fonts/storytella-webfont.woff2') format('woff2'),
+         url('../fonts/storytella-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+	font-display: swap;
+	unicode-range: U+0030-U+0039,U+0410-U+044F,U+0451,U+0401,U+002E,U+002C,U+003F,U+0021,U+2014,U+2012,U+2013,U+2010,U+00AB,U+00BB;
+}
+body{
+	width: 100%;
+	font-family: 'ralewaythin';
+	color: var(--text-color);
+}
+.wrapper{
+	max-width: 1200px;
+    margin: 0 auto;
+}
+.column{
+	width: 40%;
+}
+.column_main{
+	width: 60%;
+}
+/* Main Style End */
+/* Header Style Start */
+	.header{
+		width: 100%;
+	}
+	.header__title{
+		font-family: 'ralewaybold';
+		font-size: 45px;
+	}
+	.header__title_span{
+		color: var(--main-color);
+		font-family: 'storytella';
+		font-size: 55px;
+		line-height: 24px;
+	}
+/* Header Style End */
