@@ -8,19 +8,19 @@
     <title>RSSchool CV</title>
 </head>
 <body>
-    <main class="wrapper">
+    <div class="wrapper">
 		<header class="header">
 			<div class="column">
-				<div class="header__avatar">
+				<figure class="header__avatar">
 					<img src="images/avatar.jpg" class="header__picture" alt="Header avatar">
-				</div>
+				</figure>
 			</div>
 			<div class="column column_main column_header">
 				<h1 class="header__title">Laikovskaya <span class="header__title header__title_span">Valentina</span></h1>
 				<h3 class="header__subtitle">Web-developer</h3>
 			</div>
 		</header>
-		<div class="main">
+		<main class="main">
 			<div class="column">
 				<section class="document-section contact">
 					<h2 class="document-title">Contacts</h2>
@@ -285,10 +285,20 @@
 					</div>
 				</section>
 			</div>
-		</div>
+		</main>
 		<footer class="footer">
-			<p class="footer__text">Made with love in RSSchool course</p>
+			<div class="footer__inner">
+				<div class="footer__block">
+					<a href="https://github.com/estydaven" target="_blank" class="footer__social"></a>
+				</div>
+				<div class="footer__block">
+					<div class="footer__text">Made with love in <img src="images/rs-logo.svg" class="footer__image" alt=""> <a href="https://rs.school/js/" class="footer__link">course</a> 2021</div>
+				</div>				
+				<div class="footer__block">
+					<a href="" target="_blank" class="footer__social footer__social_yt"></a>
+				</div>
+			</div>
 		</footer>
-	</main>
+	</div>
 </body>
 </html>
